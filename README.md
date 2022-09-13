@@ -59,7 +59,7 @@
 <a href="http://www.yes24.com/Product/Goods/67350256" rel="함께 자라기"><img src="resources/Growing_Up_Together.jpeg" width="200" height="300"></a>\
 [클릭 시 YES 24 책 소개 페이지로 이동]
 
-### 참가차
+### 참가자
 이민형, 진우원
 
 ### 미팅 일정
